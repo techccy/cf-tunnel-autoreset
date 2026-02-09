@@ -16,10 +16,9 @@
 
 ### 🚀 快速开始
 
-1. **克隆仓库**
+1. **下载文件**
 ```bash
-git clone https://github.com/你的用户名/cloudflared-watchdog.git
-cd cloudflared-watchdog
+curl -O https://github.com/techccy/cf-tunnel-autoreset/cloudflared_tunnel_protect.py
 
 ```
 
