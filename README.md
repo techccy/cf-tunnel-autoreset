@@ -50,7 +50,3 @@ TARGET_ERROR = "Connection terminated" # 触发重启的关键词
 RESTART_DELAY = 3 # 重启前的等待秒数
 
 ```
-
----
-
-**需要我帮你把刚才整理好的 Python 完整代码也一并放进这个 README 的示例里吗？**
