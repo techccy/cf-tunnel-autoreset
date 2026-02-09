@@ -18,8 +18,7 @@ In unstable network environments, `cloudflared` sometimes enters a "zombie" stat
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/cf-tunnel-autoreset.git
-cd cf-tunnel-autoreset
+curl -O https://github.com/techccy/cf-tunnel-autoreset/cloudflared_tunnel_protect.py
 
 ```
 
